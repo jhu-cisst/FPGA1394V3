@@ -18,7 +18,7 @@ to one in Rev 2.x and none in Rev 1.x.
 
 * Rev 3.0: Prototype design (3 boards built), design files not released
 * Rev 3.1: Initial Release, Build #9 (107 boards)
-* Rev 3.2: Minor updates, Build #10
+* Rev 3.2: Minor updates, Build #10 (65 boards)
   * Removed L9-10 (previously, 0 Ohm resistors) for RTL8211F DC/DC converter
   * Added C77-78 for soft-start of 3.3V and 5V power supplies
   * Added test points on underside of board for manufacturing test
